@@ -1,0 +1,9 @@
+﻿  CInputDlg.cpp
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\학생성적관리 프로그램\학생성적관리 프로그램\CMyMain.h(13,14): warning C4099: 'Student': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\학생성적관리 프로그램\학생성적관리 프로그램\GlobalValue.h(13): message : 'Student' 선언을 참조하십시오.
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\학생성적관리 프로그램\학생성적관리 프로그램\CInputDlg.cpp(132,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\학생성적관리 프로그램\학생성적관리 프로그램\CInputDlg.cpp(133,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\학생성적관리 프로그램\학생성적관리 프로그램\CInputDlg.cpp(134,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\학생성적관리 프로그램\학생성적관리 프로그램\CInputDlg.cpp(135,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\학생성적관리 프로그램\학생성적관리 프로그램\CInputDlg.cpp(136,6): warning C4002: 함수 같은 매크로 호출 'ListView_SetItemText'에 대해 인수가 너무 많습니다.
+  학생성적관리 프로그램.vcxproj -> C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Game Programing\학생성적관리 프로그램\Debug\학생성적관리 프로그램.exe
